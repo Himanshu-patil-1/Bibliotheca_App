@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Bibliotheca</string>
+    <string name="love">Love</string>
+    <string name="search">Search</string>
+    <string name="hello_user">Hello User!</string>
+    <string name="what_are_we">What_Are_We</string>
+    <string name="studying_today">Studying_Today?</string>
+    <string name="what_are_we_">what are we</string>
+    <string name="logout">Logout</string>
+    <string name="subjects">Subjects</string>
+    <string name="speciality">Speciality</string>
+    <string name="specialities"/>
+    <string name="choose_subject">Choose Subject</string>
+    <string name="specialities_">Specialities</string>
+    <string name="features">features</string>
+    <string name="sub">Sub</string>
+    <string name="_12">12</string>
+    <string name="ebooks">Ebooks</string>
+    <string name="sems">Sems</string>
+    <string name="_2">2</string>
+    <string name="show">Show</string>
+    <string name="subject_1_ebook">Subject 1 Ebook</string>
+    <string name="engineering">Engineering</string>
+    <string name="subject_2_ebook">Subject 2 Ebook</string>
+    <string name="subject_3_ebook">Subject 3 Ebook</string>
+    <string name="subject_4_ebook">subject_4_ebook</string>
+    <string name="subject_5_ebook">subject 5 ebook</string>
+    <string name="subject_6_ebook">subject 6 ebook</string>
+    <string name="subject_7_ebook">Subject 7 Ebook</string>
+    <string name="subject_8_ebook">Subject 8 Ebook</string>
+    <string name="subject_9_ebook">Subject 9 Ebook</string>
+    <string name="subject_10_ebook">Subject 10 Ebook</string>
+    <string name="subject_11_ebook">Subject 11 Ebook</string>
+    <string name="subject_12_ebook">Subject 12 Ebook</string>
+    <string name="find_best_ebooks_with_bibliotheca">Find Best Ebooks with Bibliotheca</string>
+    <string name="sign_in_securely_with_google">Sign-In Securely With Google!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_securely_with_google_text">Sign In Securely With Google!</string>
+
+    <string name="sign_in_with_google">Sign In with Google</string>
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/drawable/btn_background.xml" value="0.12222222222222222" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.1984375" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/drawable/latest.xml" value="0.12410423452768729" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/font/baloo.xml" value="0.12222222222222222" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/activity_login2.xml" value="0.1" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/activity_loginscreen.xml" value="0.1" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/activity_subject.xml" value="0.1" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/activity_web.xml" value="0.1" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/dialog_wait1.xml" value="0.1" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/item_container_year.xml" value="0.11513157894736842" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/subject_1.xml" value="0.10382513661202186" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/subject_10.xml" value="0.10006830601092896" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/subject_11.xml" value="0.10006830601092896" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/subject_12.xml" value="0.10006830601092896" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/subject_2.xml" value="0.10382513661202186" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/subject_3.xml" value="0.10006830601092896" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/subject_4.xml" value="0.10006830601092896" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/subject_5.xml" value="0.10006830601092896" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/subject_6.xml" value="0.10006830601092896" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/subject_7.xml" value="0.10006830601092896" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/subject_8.xml" value="0.10006830601092896" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/subject_9.xml" value="0.10006830601092896" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/layout/subjects.xml" value="0.11513157894736842" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/menu/navigation_menu.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/Bibliotheca/app/src/main/res/xml/baloo.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
