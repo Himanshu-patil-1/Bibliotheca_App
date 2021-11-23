@@ -82,6 +82,14 @@ public class MainActivity extends AppCompatActivity {
         yearsViewPager.setOffscreenPageLimit(3);
         yearsViewPager.getChildAt(0).setOverScrollMode(RecyclerView.OVER_SCROLL_NEVER);
 
+        yearsViewPager.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(MainActivity.this,SubjectActivity.class);
+                startActivity(i);
+            }
+        });
+
         CompositePageTransformer compositePageTransformer = new CompositePageTransformer();
         compositePageTransformer.addTransformer(new MarginPageTransformer( 40));
         compositePageTransformer.addTransformer(new ViewPager2.PageTransformer() {
