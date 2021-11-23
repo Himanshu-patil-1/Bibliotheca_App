@@ -80,7 +80,6 @@
                 app:tint="@color/secondary_text"/>
 
             <TextView
-                android:id="textDegree"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/engineering"
